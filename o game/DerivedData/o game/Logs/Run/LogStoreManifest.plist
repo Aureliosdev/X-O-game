@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7FC46D73-56F4-4754-85C9-8AD28FF8DA71</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7FC46D73-56F4-4754-85C9-8AD28FF8DA71.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>o game project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>o game</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run o game</string>
+			<key>timeStartedRecording</key>
+			<real>665303815.65532506</real>
+			<key>timeStoppedRecording</key>
+			<real>665303824.34732103</real>
+			<key>title</key>
+			<string>Run o game</string>
+			<key>uniqueIdentifier</key>
+			<string>7FC46D73-56F4-4754-85C9-8AD28FF8DA71</string>
+		</dict>
+		<key>F71A92C2-3A3D-4C64-BADA-02B17C8BF647</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F71A92C2-3A3D-4C64-BADA-02B17C8BF647.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>o game project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>o game</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run o game</string>
+			<key>timeStartedRecording</key>
+			<real>665303831.17656195</real>
+			<key>timeStoppedRecording</key>
+			<real>665303867.14839995</real>
+			<key>title</key>
+			<string>Run o game</string>
+			<key>uniqueIdentifier</key>
+			<string>F71A92C2-3A3D-4C64-BADA-02B17C8BF647</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

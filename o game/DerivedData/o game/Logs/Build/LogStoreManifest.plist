@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>04582270-7718-4F59-B8CE-FEE3DB7A18CD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>04582270-7718-4F59-B8CE-FEE3DB7A18CD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>o game project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>o game</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build o game</string>
+			<key>timeStartedRecording</key>
+			<real>665303827.27946699</real>
+			<key>timeStoppedRecording</key>
+			<real>665303831.17448199</real>
+			<key>title</key>
+			<string>Build o game</string>
+			<key>uniqueIdentifier</key>
+			<string>04582270-7718-4F59-B8CE-FEE3DB7A18CD</string>
+		</dict>
+		<key>16B153B3-A084-4C1E-B87E-956D973CFEC2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>16B153B3-A084-4C1E-B87E-956D973CFEC2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>o game project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>o game</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build o game</string>
+			<key>timeStartedRecording</key>
+			<real>665303811.978544</real>
+			<key>timeStoppedRecording</key>
+			<real>665303815.64277804</real>
+			<key>title</key>
+			<string>Build o game</string>
+			<key>uniqueIdentifier</key>
+			<string>16B153B3-A084-4C1E-B87E-956D973CFEC2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
