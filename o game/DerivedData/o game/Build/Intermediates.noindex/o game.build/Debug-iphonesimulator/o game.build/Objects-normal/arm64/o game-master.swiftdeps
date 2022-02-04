@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
-options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
-build_start_time: [1643611027, 359454154]
-build_end_time: [1643611030, 823421955]
-inputs:
-  "/Users/aurelioleclarke/Desktop/Xcode projects/o game/o game/AppDelegate.swift": [1630516494, 185170888]
-  "/Users/aurelioleclarke/Desktop/Xcode projects/o game/o game/SceneDelegate.swift": [1630516494, 189240217]
-  "/Users/aurelioleclarke/Desktop/Xcode projects/o game/o game/ViewController.swift": [1632291134, 267032861]
